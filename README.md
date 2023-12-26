@@ -35,7 +35,7 @@ This repository contains a responsive Gardening application that allows the user
 The live website has been deployed to
 Github Pages. This project was developed by
 [Min](https://github.com/ItIsMLiu), [khadijah](https://github.com/Kjhohura24), [Ibrahim](https://github.com/iy2k22), [Rohit](https://github.com/rshaarma),
-[Oxana](https://github.com/Oxanal3891) and
+[Oxana](https://github.com/Oxanal3891)
 
 ## Getting Started
 
